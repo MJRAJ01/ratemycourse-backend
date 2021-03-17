@@ -1,6 +1,6 @@
 {
    "type": "mongodb",
-   "database": "test",
+   "database": "ratemycourse-local",
    "synchronize": true,
    "logging": false,
    "entities": [
